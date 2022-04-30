@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Exploring the Landscape of Degree-Level Apprenticeships
 
-You can use the [editor on GitHub](https://github.com/clasproject/clasproject.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Call for Participation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Degree-level apprenticeships have been established with the aim to create employer-led curricula and to increase the supply of skilled graduates. However, to date, there has not been a comprehensive investigation of practices across different programmes. The aim of this [CPHC Special Project](https://cphc.ac.uk/cphc-special-project-grants/) is to capture the breadth and variety of approaches across the UK, with a particular focus on the following aspects:
 
-### Markdown
+-	identifying practices and curricular structures used in the context of different programmes (e.g. day release, cohort-based approaches, summer programmes, etc.)
+-	investigating employers’ motivations for participating in degree-level apprenticeships and the extent to which they differ across programmes
+-	exploring students’ individual learning trajectories and paths to these programmes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We plan to submit initial results from this work to the [UKICER](https://www.ukicer.com) and [Computing Education Practice](https://cepconference.webspace.durham.ac.uk) conferences.
 
-```markdown
-Syntax highlighted code block
+To express interest in participating in this project, please complete the following form: [https://bit.ly/cphc-apprenticeship-interest](https://bit.ly/cphc-apprenticeship-interest)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clasproject/clasproject.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We will only use this information to contact the programme lead for degree-level apprenticeships in computing at your institution with an invitation to participate.
