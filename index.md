@@ -12,6 +12,6 @@ We plan to submit initial results from this work to the [UKICER](https://www.uki
 
 ### Current Status
 
-In the initial phase of the project, we are conducting a survey with academics. If your university is offering a degree-level apprenticeship programme in computing, please complete this survey or share it with the relevant programme head.
+In the initial phase of the project, we are conducting a survey with academics and employers. If your university or company is offering a degree-level apprenticeship programme in computing, please consider completing the following survey.
 
 [https://bit.ly/cphc-apprenticeship-survey](https://bit.ly/cphc-apprenticeship-survey)
